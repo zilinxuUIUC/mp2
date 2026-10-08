@@ -1,0 +1,15 @@
+I used ChatGPT to help implement MP2
+
+I provided the assignment requirements and chose PokéAPI for the application.
+I discussed and reviewed the implementation plan with ChatGPT
+I reviewed the code written by ChatGPT
+I collaborated on testing and debugging
+
+The assistance included:
+> creating a React and TypeScript app using Vite
+> fetching the original 151 Pokémon and their details using Axios
+> implementing list view, gallery view, and detailed view
+> creating responsive CSS layouts
+> adding API response caching, loading states, retry handling, and empty-result messages
+> writing tests
+> debugging

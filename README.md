@@ -149,3 +149,14 @@ git push origin main
 We acknowledge the transformative potential of LLMs in generating code; however, we are still in the nascent stages of understanding how to embed LLMs in developer workflows to write code more efficiently while maintaining quality. Therefore, we will not be teaching students directly how to use LLMs to develop web applications.
 
 As part of this class, we do encourage students to experiment with LLM services such as OpenAI's ChatGPT to generate source code for MPs. If LLMs are used to generate code for an MP, students must (1) submit their chatlogs along with their source code, and (2) answer survey questions related to their experience using LLMs in the grading form. Failure to do this will be a violation of the academic integrity policy of this course.
+
+## Project Sources
+
+References used for the Kanto Field Guide implementation:
+
+- [PokéAPI v2 documentation](https://pokeapi.co/docs/v2): Pokémon endpoints, types, abilities, stats, measurements, and artwork.
+- [React documentation](https://react.dev/learn): components, JSX, state, and effects.
+- [React Router routing](https://reactrouter.com/start/declarative/routing) and [BrowserRouter](https://reactrouter.com/api/declarative-routers/BrowserRouter): routes, links, and basename.
+- [Axios documentation](https://axios-http.com/docs/intro): HTTP client and API requests.
+- [Vite deployment documentation](https://vite.dev/guide/static-deploy.html): build output and GitHub Pages configuration.
+- [Google Fonts](https://fonts.google.com/): DM Sans and Manrope fonts.
